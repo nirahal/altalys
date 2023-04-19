@@ -1,0 +1,33 @@
+.devis-bg-color{
+    background: url("../assets/bg.png");
+    background-size: cover;
+}
+
+.devis-layout{
+    text-align: start;
+    color: black;
+}
+
+.devis-title{
+    text-align: center;
+}
+
+.devis-btn{
+    display: flex;
+    justify-content: center;
+}
+
+.first-btn-item{
+    max-width: 600px;
+    color:black;
+}
+
+.second-btn-item{
+  border-radius: 0.2rem;
+  background-color: black;
+}
+
+.first-btn-item:hover, .second-btn-item:hover{
+    background-color: #3db36b;
+
+}

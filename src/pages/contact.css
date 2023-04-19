@@ -1,0 +1,66 @@
+.contact-bg{
+    background: url("../assets/services-bg.png");
+}
+
+.contact-layout{
+    height: 100%;
+    display: d-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 50px 0 100px 0;
+}
+
+.contact-title{
+    font-size: 50px;
+    font-style: italic;
+}
+
+
+.send-button{
+    float: left;
+}
+.contact-section{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border-bottom: 2px solid green;
+    padding:20px 0;
+    margin: 0 50px;
+}
+
+.phone-icon{
+    color: green;
+    font-size: 2rem;
+    padding: 10px;
+    margin: 8px 15px 0 0;
+    border: 2px solid green;
+    border-radius: 50%;
+}
+
+.envelope-icon, .map-icon{
+    color: green;
+    font-size: 2rem;
+    padding: 10px;
+    margin: 8px 15px 0 0;
+}
+
+.envelope-icon{
+    font-size: 2.5rem;
+    padding: 10px;
+    margin: 8px 15px 0 0;
+}
+
+a:hover{
+    color:grey;
+}
+
+@media screen and (width< 1000px) {
+    .contact-section{
+        margin: 8px 0 0 0;
+    }
+    .send-button{
+        float: none;
+    }
+
+}

@@ -1,0 +1,15 @@
+#root{
+    --medium-green-color: #3db36b;
+    --dark-green-color: #1b4e2f9d;
+    --light-green-color: rgb(137,198,79);
+    --light-grey-color: #f9f9f9;
+    --medium-grey-color: #c2c2c0;
+    --dark-grey-color:#494c4b;
+    --quote-grey-color: #555555;
+
+    --h1-font-fam: Noto-serif;
+    --h2-font-fam: Roboto;
+    --quote-font-fam : Noto-serif;
+    --body-font-fam: Noto-serif;
+}
+
