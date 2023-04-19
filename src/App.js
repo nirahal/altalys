@@ -21,13 +21,13 @@ import Devis from "./pages/devis.jsx";
 function App() {
   let page = ""
   switch(window.location.pathname){
-    case "/":
+    case "/altalys/":
       page = <Home/>;
       break;
-    case "/home":
+    case "/altalys/home":
       page = <Home/>;
       break;
-    case "/about":
+    case "/altalys/about":
       page=<About/>
       break;
     case "/servicesItemOne":

@@ -108,7 +108,7 @@ export class Navbar extends Component {
                   <a
                     className={"nav-link item-color " + item.acceuil}
                     aria-current="page"
-                    href="/"
+                    href="/altalys/"
                   >
                     Acceuil
                   </a>
@@ -117,7 +117,7 @@ export class Navbar extends Component {
                   <a
                     className={"nav-link  item-color " + item.about}
                     aria-current="page"
-                    href="/about"
+                    href="/altalys/about"
                   >
                     A propos
                   </a>
