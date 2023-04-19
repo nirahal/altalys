@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.9c0824bb.css",
-    "main.js": "/static/js/main.63335905.js",
-    "static/js/787.ce5f2e2d.chunk.js": "/static/js/787.ce5f2e2d.chunk.js",
-    "static/media/services.png": "/static/media/services.56dc4669284ac49b4985.png",
-    "static/media/cara1.jpg": "/static/media/cara1.2413623ce75867b77928.jpg",
-    "static/media/cara5.jpg": "/static/media/cara5.e3e8d418caff8f3e6288.jpg",
-    "static/media/cara2.jpg": "/static/media/cara2.2bcbccb65b872b898acb.jpg",
-    "static/media/cara4.jpg": "/static/media/cara4.779946c807792a894d30.jpg",
-    "static/media/bg.png": "/static/media/bg.0a9cb2fc57c1ea59cc4d.png",
-    "static/media/presentation.jpg": "/static/media/presentation.5603d2bf45def6798c8d.jpg",
-    "static/media/cara3.jpg": "/static/media/cara3.44802882800a4fae76cc.jpg",
-    "static/media/values.jpg": "/static/media/values.45a2e559c8604333cc82.jpg",
-    "static/media/services-bg.png": "/static/media/services-bg.0b9cca0bd1a0090d96d3.png",
-    "static/media/Logo.png": "/static/media/Logo.305c7092d93fd3142254.png",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.9c0824bb.css.map": "/static/css/main.9c0824bb.css.map",
-    "main.63335905.js.map": "/static/js/main.63335905.js.map",
-    "787.ce5f2e2d.chunk.js.map": "/static/js/787.ce5f2e2d.chunk.js.map"
+    "main.css": "/altalys/static/css/main.0c4dc55f.css",
+    "main.js": "/altalys/static/js/main.6c85df69.js",
+    "static/js/787.ce5f2e2d.chunk.js": "/altalys/static/js/787.ce5f2e2d.chunk.js",
+    "static/media/services.png": "/altalys/static/media/services.56dc4669284ac49b4985.png",
+    "static/media/cara1.jpg": "/altalys/static/media/cara1.2413623ce75867b77928.jpg",
+    "static/media/cara5.jpg": "/altalys/static/media/cara5.e3e8d418caff8f3e6288.jpg",
+    "static/media/cara2.jpg": "/altalys/static/media/cara2.2bcbccb65b872b898acb.jpg",
+    "static/media/cara4.jpg": "/altalys/static/media/cara4.779946c807792a894d30.jpg",
+    "static/media/bg.png": "/altalys/static/media/bg.0a9cb2fc57c1ea59cc4d.png",
+    "static/media/presentation.jpg": "/altalys/static/media/presentation.5603d2bf45def6798c8d.jpg",
+    "static/media/cara3.jpg": "/altalys/static/media/cara3.44802882800a4fae76cc.jpg",
+    "static/media/values.jpg": "/altalys/static/media/values.45a2e559c8604333cc82.jpg",
+    "static/media/services-bg.png": "/altalys/static/media/services-bg.0b9cca0bd1a0090d96d3.png",
+    "index.html": "/altalys/index.html",
+    "static/media/Logo.png": "/altalys/static/media/Logo.305c7092d93fd3142254.png",
+    "static/media/logo.svg": "/altalys/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.0c4dc55f.css.map": "/altalys/static/css/main.0c4dc55f.css.map",
+    "main.6c85df69.js.map": "/altalys/static/js/main.6c85df69.js.map",
+    "787.ce5f2e2d.chunk.js.map": "/altalys/static/js/787.ce5f2e2d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c0824bb.css",
-    "static/js/main.63335905.js"
+    "static/css/main.0c4dc55f.css",
+    "static/js/main.6c85df69.js"
   ]
 }
